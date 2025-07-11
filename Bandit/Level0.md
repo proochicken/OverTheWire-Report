@@ -1,7 +1,7 @@
 # 🎯 Bandit Level 0
 
 
-## 📌 END goal:
+## 📌 END goal: Tìm key bị giấu.
 Đăng nhập vào hệ thống qua SSH với:
 ```
 host: bandit.labs.overthewire.org
