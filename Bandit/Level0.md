@@ -13,7 +13,7 @@ password: bandit0
 
 ## ⚙️ Cách thực hiện:
 **Câu lệnh truy cập:**
-*ssh <username>@<remote>*
+*ssh username@remote*
 
 
 ```bash
