@@ -31,6 +31,8 @@ cat spaces\ in\ this\ filename
 Mà trong cấu trúc syntax của Linux có dạng: ```command [options] argument1 argument2```  
 Vì thế nếu ta sử dụng ```cat spaces in this filename``` thì sẽ được hiểu là cat các file spaces, in, this, filename  
 ![alt text](./image/Level2-1.png)
+
+
 ==>Ta có 2 cách để xử lý là dùng ```""``` để làm nó liền mạch hoặc ```\``` để escape mọi dấu space.
 
 #### Key : MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
