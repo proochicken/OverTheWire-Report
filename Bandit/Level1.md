@@ -1,4 +1,4 @@
-# 🎯 Bandit Level 0 --> Level 1
+# 🎯 Bandit Level 1
 
 ## 📌 END goal: Tìm key bị giấu.
 *Lấy key: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If lấy được ở Level0 làm password cho Level 1*
