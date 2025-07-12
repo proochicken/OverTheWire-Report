@@ -1,4 +1,4 @@
-# 🎯 Bandit Level 4
+# 🎯 Bandit Level 5
 
 ## 📌 END goal: Tìm key bị giấu.
 **Describe**: The password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties:
