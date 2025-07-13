@@ -15,15 +15,6 @@ password: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
 ---
 
 ## ⚙️ Cách thực hiện:
-**Payload:**
-```bash
-ssh bandit12@bandit.labs.overthewire.org -p 2220
-
-
-
-
-
-```
 
 Trong describe của bài, có thể thấy Key đang nằm trong file data.txt đã bị nén nhiều lần và biểu diễn dưới dạng hexdump
 
@@ -44,7 +35,7 @@ nên ta cần chuyển nó về dạng file nhị phân trước khi thực hi�
     ```
 **Note:** ```xxd``` dùng để chuyển file bin thành dạng hexdump hoặc chuyển ngược lại với option ```-r```
 
-3. Giải nén lặp: Đầu tiên dùng lệnh ```file data.bin``` để xác định định dạng file thực tế của data.bin ví dụ ở file data.bin ban đầu này đang ở dạng gzip
+1. Giải nén lặp: Đầu tiên dùng lệnh ```file data.bin``` để xác định định dạng file thực tế của data.bin ví dụ ở file data.bin ban đầu này đang ở dạng gzip
 
 ![alt text](./image/Level12.png)
 
