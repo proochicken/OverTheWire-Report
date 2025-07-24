@@ -18,6 +18,9 @@ password: EeoULMCra2q0dSkYj561DX7s1CpBuOBt
 ```bash
 ssh -p 2220 bandit21@bandit.labs.overthewire.org
 cd /etc/cron.d
+cat cronjob_bandit22
+cat /usr/bin/cronjob_bandit22.sh
+cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 ```
 
 ### Kiến thức cần biết: ###
