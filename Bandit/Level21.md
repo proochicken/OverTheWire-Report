@@ -1,6 +1,6 @@
 # 🎯 Bandit Level 21
 
-## 📌 END goal: Lợi dụng 1 setuid binary có thể kết nối đến 1 port chỉ định trên localhost rồi đọc 1 dòng từ kết nối đó so sánh với password ở Level hiện tại để lấy Key
+## 📌 END goal: Tìm key bị giấu
 **Describe**: A program is running automatically at regular intervals from cron, the time-based job scheduler. Look in /etc/cron.d/ for the configuration and see what command is being executed.
 
 
