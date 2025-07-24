@@ -44,6 +44,11 @@ Lệnh ```cut -d ' ' -f 1``` sẽ tách chuỗi theo dấu cách và lấy chu�
 -Chạy thử script:   
 ![alt text](./image/Level22.png)
 
--Ta đọc file ```/tmp/8169b67bd894ddbb4412f91573b38db3``` có được key
+==>Vậy để tìm file chứa key cho Level23, ta đổi từ ```bandit22``` thành ```bandit23```:   
+```bash
+echo I am user bandit23 | md5sum | cut -d ' ' -f 1
+```
 
-### Key: tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q
+-Ta đọc file ```/tmp/8ca319486bfbbc3663ea0fbe81326349``` có được key
+
+### Key: 0Zf11ioIjMVN551jX3CmStKLYqjk54Ga
