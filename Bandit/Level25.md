@@ -19,8 +19,13 @@ password: iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
 **Payload:**
 ```bash
 ssh -p 2220 bandit25@bandit.labs.overthewire.org
-
-
+cat /etc/passwd | grep "bandit26"
+cat /usr/bin/showtext
+#Cho nhỏ terminal
+ssh -i bandit26.sshkey bandit26@localhost
+:set shell=/bin/bash
+:shell
+cat /etc/bandit_pass/bandit26
 ```
 
 -Như mô tả ở đầu, ta sẽ vào ```/etc/passwd``` để đọc loại Shell mặc định khi đăng nhập vào bandit26 là gì:   
@@ -46,7 +51,7 @@ exit 0
 -Vậy là khi kết nối ssh từ lv25 lên lv26 thì server sẽ chạy ```more ~/text.txt``` và tự ngắt kết nối luôn.
 
 -Biết chức năng của more là nếu terminal không đủ diện tích, nó sẽ cho phép mình cuộn dòng đọc dữ liệu, 
-nếu soạn ```v```, ```more``` sẽ cho phép mở ```vim``` như hình:
+nếu soạn ```v```, ```more``` sẽ cho phép mở ```vim```, giờ dùng lệnh ```ssh -i bandit26.sshkey bandit26@localhost``` và cho nhỏ terminal lại và soạn ```v```:
 
 ![alt text](./image/Level25-1.png)
 
