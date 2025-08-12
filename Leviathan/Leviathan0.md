@@ -24,6 +24,6 @@ cat bookmarks.html | grep "leviathan"
 
 -Khi ls -la ta thấy có 1 file ```.backup``` khá khả nghi, cd tới đó và thấy 1 file ```bookmark.html```  đọc file để lấy key.
 
-![alt text](./Leviathan0.png)
+![alt text](image/Leviathan0.png)
 
 ### Key: 3QJ3TgzHDq
