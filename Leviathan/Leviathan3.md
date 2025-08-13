@@ -1,4 +1,4 @@
-# 🧪 Leviathan Level 2 Writeup
+# 🧪 Leviathan Level 3 Writeup
 
 > **Wargame:** Leviathan – OverTheWire  
 > **Level:** leviathan3 → leviathan4  
