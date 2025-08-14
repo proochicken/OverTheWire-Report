@@ -1,4 +1,4 @@
-# 🔑 Krypton Level 2
+# 🔑 Krypton Level 3
 
 ## 📜 Mô tả đề bài
 >  The password to the next level is found in the file ‘krypton4’. You have also found 3 other files. (found1, found2, found3)
@@ -110,7 +110,7 @@ print(key)
 
 ## 🔑 Key
 ```text
-BBRUTE
+BRUTE
 ```
 
 ## Có thể dùng: [quipquip](https://quipqiup.com/) để giải quyết bài này bằng cái bỏ hết các file vào đây.
