@@ -45,7 +45,7 @@ cat krypton2| tr 'A-Za-z' 'N-ZA-Mn-za-m'
 ```
 ---
 
-## 🧪 Payload (nếu có)
+## 🧪 Payload 
 ```bash
 cd krypton
 ls
@@ -58,7 +58,7 @@ cat krypton2 | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 
 ---
 
-## 🧠 Kiến thức cần biết (nếu có)
+## 🧠 Kiến thức cần biết 
 - Khái niệm/thuật toán: ROT13 là thuật toán dịch chuyển mỗi chữ cái 13 vị trí trong bảng chữ cái (Từ A->N, B->O,...)   
   + Do Tiếng Anh có 26 chữ cái, dịch 13 bước rồi dịch thêm 13 bước nữa sẽ quay lại ban đầu
   + Để giải mã ROT13, ta sẽ sử dụng lệnh ```| tr 'A-Za-z' 'N-ZA-Mn-za-m'```  
