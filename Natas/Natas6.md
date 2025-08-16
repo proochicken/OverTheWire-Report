@@ -31,4 +31,6 @@ $secret = "FOEIUWGHFEEUHOFUOIU";
 ?>
 ```
 
-## 📌 Key: ```FOEIUWGHFEEUHOFUOIU```
+==>Lấy ```FOEIUWGHFEEUHOFUOIU``` để nhập vào và lấy password.
+
+## 📌 Key: ```bmg8SvU1LizuWjx3y7xkNERkHxGre0GS```
